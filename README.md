@@ -1,1 +1,4 @@
 # eggo
+
+#studying 
+hello world
